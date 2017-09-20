@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Sandbox</title>
+	</head>
+	<body>
+	<h2>Sandbox</h2>
+	<?=phpinfo();?>
+	</body>
+</html>

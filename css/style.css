@@ -1,0 +1,115 @@
+/* CSS Document */
+
+body{
+background-color:#DAECF4;
+font-family:"Lucida Grande",Arial,Sans-serif;
+font-size:13px;
+color:#663B12;
+}
+
+#main {
+margin:0 auto;
+width:765px;
+}
+
+#search{
+margin-top:25px;
+padding:110px 0 0 220px;
+background-image:url('../images/sweet2.jpg');
+background-repeat:no-repeat;
+background-color:#FFF;
+height:95px;
+font-size:24px;
+font-weight:bold;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+behavior: url('scripts/PIE.htc');
+}
+
+#results{
+margin-top:25px;
+padding:10px 20px 10px 20px;
+background-color:#FFF;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+behavior: url('scripts/PIE.php');
+}
+
+#searchbox{
+border: 1px solid #33ccff;
+width: 325px;
+padding:5px;
+font-weight:bold;
+font-size:16px;
+}
+
+.helptext{
+margin-top:0px;
+padding-left:95px;
+font-size:10px;
+font-weight: normal;
+padding-top:2px;
+}
+
+.user{
+border-bottom: 1px solid #eee;
+padding:10px;
+}
+
+.user a {
+color:#2276BB;
+text-decoration:none;
+}
+
+.user a:hover {
+text-decoration:underline;
+}
+
+.user_name {
+padding-bottom:2px;
+}
+
+.user_name a {
+color:#2276BB;
+text-decoration:none;
+font-weight:bold;
+}
+
+.user_name a:hover {
+text-decoration:underline;
+}
+
+.user_photo{
+float:left;
+padding-right:10px;
+}
+
+.time_ago{
+font-size:9px;
+padding-top:2px;
+color:#999999;
+}
+
+.footer{
+font-size:10px;
+font-weight: normal;
+text-align:center;
+}
+
+.footer a{
+color:#2276BB;
+text-decoration:none;
+}
+
+.footer a:hover{
+text-decoration:underline;
+}
+
+.clear{
+clear:both;
+}
+
+
+
